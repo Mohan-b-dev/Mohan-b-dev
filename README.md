@@ -34,7 +34,7 @@
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40" style="filter: grayscale(100%);"/> </a>
 </p>
 
-### GitHub Stats:
+### GitHub Status:
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mohan-b-dev&show_icons=true&locale=en&layout=compact&bg_color=ffffff&title_color=000000&text_color=000000&icon_color=000000" alt="mohan-b-dev" />
