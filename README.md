@@ -227,3 +227,7 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohan-b-dev&background=ffffff&ring=000000&fire=000000&currStreakNum=000000&sideNums=000000&dates=000000" alt="mohan-b-dev" />
 </p>
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
+</p>
