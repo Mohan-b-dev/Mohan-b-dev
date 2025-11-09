@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Vairamuthu</h1>
+<h1 align="center">Hi 👋, I'm Mohan</h1>
 <h3 align="center">Passionate for innovation, A boy trying to figure-out stuff!!</h3>
 
 <p align="center"> 
@@ -9,14 +9,13 @@
   <img src="https://github-readme-stats.vercel.app/api?username=mohan-b-dev&show_icons=true&theme=react&count_private=true&include_all_commits=true" alt="Mohan B" align="right" />
 </a>
 
-- 🏫: &nbsp;I'm graduate B.E CSE at JEC"24 and pursuing M.E CSE at JEC"26  
+- 🏫: &nbsp;I'm graduate B.E CSE at JEC"26
 - 👨‍💼: &nbsp; [GSOC"22](https://summerofcode.withgoogle.com/programs/2022/projects/TbEfG95X) **Open Source Contributor**  
-- :writing_hand: &nbsp;Read my articles on [Medium](https://medium.com/@mvairamuthu20000)  
 - :speech_balloon: &nbsp;I like to talk about **JavaScript** and **Web 3.0**  
 - :mailbox: &nbsp;Ask me about anything, I am happy to **help**  
-- :computer: &nbsp;Connect with me on [LinkedIn](https://www.linkedin.com/in/vmmuthu/)  
-- 📫 How to reach me **mvairamuthu2003@gmail.com**  
-- :bird: &nbsp;Let's talk more on [Twitter](https://twitter.com/Barfi_31)
+- :computer: &nbsp;Connect with me on [LinkedIn](https://www.linkedin.com/in/mohan-b-dev/)  
+- 📫 How to reach me **mohangokul515@gmail.com**  
+- :bird: &nbsp;Let's talk more on [Twitter](https://twitter.com/mohan-b-dev)
 
 <br>
 
