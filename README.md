@@ -195,11 +195,6 @@
   </tr>
 </table>
 
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mohan-b-dev&label=Profile%20views&color=000000&style=flat" alt="mohan-b-dev" />
-</p>
-
 ## 🔗 Github Trophies
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=mohan-b-dev&theme=darkhub">
