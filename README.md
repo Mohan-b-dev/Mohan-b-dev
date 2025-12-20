@@ -1,228 +1,108 @@
-<h1 align="center">Hi 👋, I'm Mohan</h1>
-<h3 align="center">Passionate for innovation, A boy trying to figure-out stuff!!</h3>
+<!-- Hero Section with a modern twist -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hey+there!+I'm+Mohan;Full+Stack+%7C+Web3+Developer;Bridging+Web2+and+Blockchain;Building+the+Decentralized+Future&font=Fira+Code&size=28&duration=4000&pause=1000&color=00BFFF&center=true&vCenter=true&width=800&height=100" alt="Typing SVG" />
+  
+  <br/>
+  
+  <p><strong>Turning code into scalable apps and smart contracts 🚀</strong></p>
+  
+  <img src="https://komarev.com/ghpvc/?username=mohan-b-dev&label=Profile+Views&color=0e75b6&style=flat-square" alt="Profile views" />
+</div>
 
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=mohan-b-dev&label=Profile%20views&color=0e75b6&style=flat" alt="mohan-b-dev" /> 
-</p>
+---
 
-<a href="#mohan-b-dev-title">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohan-b-dev&show_icons=true&theme=react&count_private=true&include_all_commits=true" alt="Mohan B" align="right" />
-</a>
+### 🌟 Quick Intro
+I'm a passionate **Full Stack Web Developer** with a strong focus on **Web3 & Blockchain**.  
+Currently pursuing **B.E. in Computer Science Engineering** (Class of 2026).  
+Google Summer of Code '22 Contributor 🌍 | Open Source Enthusiast | Decentralized Apps Builder
 
-- 🏫: &nbsp;I'm graduate B.E CSE at JEC"26
-- 👨‍💼: &nbsp; [GSOC"22](https://summerofcode.withgoogle.com/programs/2022/projects/TbEfG95X) **Open Source Contributor**  
-- :speech_balloon: &nbsp;I like to talk about **JavaScript** and **Web 3.0**  
-- :mailbox: &nbsp;Ask me about anything, I am happy to **help**  
-- :computer: &nbsp;Connect with me on [LinkedIn](https://www.linkedin.com/in/mohan-b-dev/)  
-- 📫 How to reach me **mohangokul515@gmail.com**  
-- :bird: &nbsp;Let's talk more on [Twitter](https://twitter.com/mohan-b-dev)
+---
 
-<br>
+### 🔗 Connect With Me
+<div align="center">
 
-<h2 align="left" id="mohan-b-dev">Favorite Tech</h2>
-> Tools, languages, and other things that I like to work with.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohan-b-dev/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohangokul515@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=vercel&logoColor=white)](https://vishal-vibecode.vercel.app/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Mohan-B-Dev)
 
-<table align="center">
-  <tr>
-    <td align="center" width="96">
-      <a href="#mohan-b-dev">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" width="48" height="48" alt="JavaScript" />
-      </a>
-      <br>JavaScript
-    </td>
-    <td align="center" width="96">
-      <a href="#mohan-b-dev">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" width="48" height="48" alt="Python" />
-      </a>
-      <br>Python
-    </td>
-    <td align="center" width="96">
-      <a href="#mohan-b-dev">
-        <img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="48" height="48" alt="Django" />
-      </a>
-      <br>Django
-    </td>
-    <td align="center" width="96">
-      <a href="#mohan-b-dev">
-        <img src="https://i.ibb.co/jDGr3z0/azure-removebg-preview.png" width="48" height="48" alt="Azure" />
-      </a>
-      <br>Azure
-    </td>
-    <td align="center" width="96">
-      <a href="#mohan-b-dev">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" width="48" height="48" alt="TypeScript" />
-      </a>
-      <br>TypeScript
-    </td>
-    <td align="center" width="96">
-      <a href="#mohan-b-dev">
-        <img src="https://brandlogos.net/wp-content/uploads/2020/09/react-logo.png" width="48" height="48" alt="React" />
-      </a>
-      <br>React JS
-    </td>
-    <td align="center" width="96">
-      <a href="#mohan-b-dev">
-        <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" width="48" height="48" alt="Bootstrap" />
-      </a>
-      <br>Bootstrap
-    </td>
-    <td align="center" width="96">
-      <a href="#mohan-b-dev">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/590px-Node.js_logo.svg.png" width="48" height="48" alt="Node JS" />
-      </a>
-      <br>Node JS
-    </td>
-     <td align="center" width="96">
-      <a href="#mohan-b-dev">
-        <img src="https://w7.pngwing.com/pngs/956/695/png-transparent-mongodb-original-wordmark-logo-icon-thumbnail.png" width="48" height="48" alt="MongoDB" />
-      </a>
-      <br>MongoDB
-    </td>
-  </tr>
+</div>
 
-  <tr>
-    <td align="center" width="96">
-      <a href="#mohan-b-dev">
-        <img src="https://img.icons8.com/color/452/c-programming.png" width="48" height="48" alt="C" />
-      </a>
-      <br>C Lang
-    </td>
-    <td align="center" width="96">
-      <a href="#mohan-b-dev">
-        <img src="https://camo.githubusercontent.com/d7574156c7a1844d3c2907bae0e76254cca759290c08e08a6ef2bd7543c8c0ca/68747470733a2f2f692e6962622e636f2f737331374b47302f63376238313133323437666563643833626439623565643562643366333464352d72656d6f766562672d707265766965772e706e67" width="48" height="48" alt="Linux" />
-      </a>
-      <br>Linux
-    </td>
-    <td align="center" width="96">
-      <a href="#mohan-b-dev">
-        <img src="https://static.cdnlogo.com/logos/g/42/gatsby.svg" width="48" height="48" alt="Gatsby" />
-      </a>
-      <br>Gatsby
-    </td>
-    <td align="center" width="96">
-      <a href="#mohan-b-dev">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Electron_Software_Framework_Logo.svg/1024px-Electron_Software_Framework_Logo.svg.png" width="48" height="48" alt="Electron" />
-      </a>
-      <br>Electron
-    </td>
-    <td align="center" width="96">
-      <a href="#mohan-b-dev">
-        <img src="https://4.bp.blogspot.com/-rtNRVM3aIvI/XJX_U07Z-II/AAAAAAAAJXY/YpdOo490FTgdKOxM4qDG-2-EzcNFAWkA/CK4BGAYYCw/s1600/logo%2Bfirebase%2Bicon.png" width="48" height="48" alt="Firebase" />
-      </a>
-      <br>Firebase
-    </td>
-    <td align="center" width="96">
-      <a href="#mohan-b-dev">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/WordPress_blue_logo.svg/480px-WordPress_blue_logo.svg.png" width="48" height="48" alt="WordPress" />
-      </a>
-      <br>WordPress
-    </td>
-    <td align="center" width="96">
-      <a href="#mohan-b-dev">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/2048px-GraphQL_Logo.svg.png" width="48" height="48" alt="GraphQL" />
-      </a>
-      <br>GraphQL
-    </td>
-    <td align="center" width="96">
-      <a href="#mohan-b-dev">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" width="48" height="48" alt="Git" />
-      </a>
-      <br>Git
-    </td>
-    <td align="center" width="96">
-      <a href="#mohan-b-dev">
-        <img src="https://i.ibb.co/LzmYpDX/146-1466902-php-logo-png-transparent-php-logo-png-png-removebg-preview.png" width="48" height="48" alt="PHP" />
-      </a>
-      <br>PHP
-    </td>
-  </tr>
+---
 
-  <tr>
-    <td align="center" width="96">
-      <a href="#mohan-b-dev">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2048px-Tailwind_CSS_Logo.svg.png" width="48" height="48" alt="TailWind" />
-      </a>
-      <br>TailWind
-    </td>
-    <td align="center" width="96">
-      <a href="#mohan-b-dev">
-        <img src="https://bashlogo.com/img/symbol/png/full_colored_dark.png" width="48" height="48" alt="Bash" />
-      </a>
-      <br>Bash
-    </td>
-    <td align="center" width="96">
-      <a href="#mohan-b-dev">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" width="45" height="45" alt="Figma" />
-      </a>
-      <br>Figma
-    </td>
-    <td align="center" width="96">
-      <a href="#mohan-b-dev">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1200px-Tensorflow_logo.svg.png" width="48" height="48" alt="Tensorflow" />
-      </a>
-      <br>Tensorflow
-    </td>
-    <td align="center" width="96">
-      <a href="#mohan-b-dev">
-        <img src="https://media.zeemly.com/zeemly/product/material-ui.png" width="48" height="48" alt="Material UI" />
-      </a>
-      <br>Material UI
-    </td>
-    <td align="center" width="96">
-      <a href="#mohan-b-dev">
-        <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_solidity_icon_130156.png" width="48" height="48" alt="Solidity" />
-      </a>
-      <br>Solidity
-    </td>
-    <td align="center" width="96">
-      <a href="#mohan-b-dev">
-        <img src="https://cdn.worldvectorlogo.com/logos/redux.svg" width="48" height="48" alt="Redux" />
-      </a>
-      <br>Redux
-    </td>
-    <td align="center" width="96">
-      <a href="#mohan-b-dev">
-        <img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" width="48" height="48" alt="Next JS" />
-      </a>
-      <br>Next JS
-    </td>
-    <td align="center" width="96">
-      <a href="#mohan-b-dev">
-        <img src="https://brandeps.com/logo-download/G/Google-Cloud-logo-vector-01.svg" width="48" height="48" alt="Google Cloud" />
-      </a>
-      <br>G Cloud
-    </td>
-  </tr>
-</table>
+### 🛠️ Tech Arsenal
+<div align="center">
 
-## 🔗 Github Trophies
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=mohan-b-dev&theme=darkhub">
-</p>
+**Languages**  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
 
-<br />
+<br/><br/>
 
-## 🔗 Know more about me 
-[![Portfolio](https://img.shields.io/badge/Portfolio-yellow?style=for-the-badge)](https://vishal-vibecode.vercel.app/)
-[![Resume](https://img.shields.io/badge/-Resume-green?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1UOlwNoEPBZ9-0eOFAzmfsSWqFst1oP6R/view)
-[![Mail](https://img.shields.io/badge/-Say%20Hi!-black?style=for-the-badge&logo=gmail)](mailto:dev.vishalaakash@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mohan-b-dev/)
-[![Twitter](https://img.shields.io/badge/-Twitter-black?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Mohan-B-Dev)
+**Frontend**  
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 
-### GitHub Status:
+<br/><br/>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mohan-b-dev&show_icons=true&locale=en&layout=compact&bg_color=ffffff&title_color=000000&text_color=000000&icon_color=000000" alt="mohan-b-dev" />
-</p>
+**Backend & Databases**  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohan-b-dev&show_icons=true&locale=en&bg_color=ffffff&title_color=000000&text_color=000000&icon_color=000000" alt="mohan-b-dev" />
-</p>
+<br/><br/>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohan-b-dev&background=ffffff&ring=000000&fire=000000&currStreakNum=000000&sideNums=000000&dates=000000" alt="mohan-b-dev" />
-</p>
+**Blockchain & Tools**  
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
-</p>
+</div>
+
+---
+
+### 📊 GitHub Insights
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=mohan-b-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohan-b-dev&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180" alt="Top Languages" />
+
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mohan-b-dev&theme=tokyonight&hide_border=true" alt="Streak Stats" />
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mohan-b-dev&theme=tokyo-night&hide_border=true&bg_color=0d1117" alt="Activity Graph" />
+
+</div>
+
+---
+
+### 🐍 Contribution Grid Snake
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mohan-b-dev/mohan-b-dev/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mohan-b-dev/mohan-b-dev/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mohan-b-dev/mohan-b-dev/output/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Developer Quote" />
+</div>
+
+---
+
+<div align="center">
+  <strong>Let's build something decentralized together! 💬</strong>
+</div>
